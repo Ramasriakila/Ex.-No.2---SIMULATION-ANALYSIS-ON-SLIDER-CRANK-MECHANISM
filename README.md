@@ -35,7 +35,9 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram
 ![image](https://github.com/user-attachments/assets/6a2301f3-0a13-4495-901e-202a3a7ffdb2)
-![image](https://github.com/user-attachments/assets/e788cf14-dfc4-420a-a3d8-29465a6bba61)
+
+![Screenshot 2024-12-20 141546](https://github.com/user-attachments/assets/23b46bf9-9f53-4787-9e2a-e32cc8e7e715)
+
 ## Output
 
 
@@ -43,4 +45,4 @@
 ### Register Number: 24007403
 
 ## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+### Thus the displacement & velocity analysis for the given slider crank mechanism is simulated.
